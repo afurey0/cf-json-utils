@@ -1,4 +1,4 @@
-# cf_json_utils
+# ColdFusion JSON Utilities
 
 ColdFusion component for working with JSON.
 
